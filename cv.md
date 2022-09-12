@@ -27,6 +27,7 @@ I've always been interested in programming, so I decided to study front-end deve
 - Figma;
 - Photoshop;
 - WordPress.
+
 ---
 
 ## Code example

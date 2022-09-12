@@ -1,4 +1,5 @@
 # Andrei Koryagin
+
 ## Contact information:
 
 - **Location:** Saint Petersburg, Russia
@@ -7,13 +8,19 @@
 - **Telegram:** @niakrist
 - **Discord RS-School:** Andrei Koryagin (@Niakrist)
 - **GitHub:** [Niakrist](https://github.com/Niakrist/)
+
 ---
+
 ## About me
+
 My name Andrei. Me 34 years, now doing internet marketer. Promote commercial websites (SEO), do advertising campaigns. Develop my information sites on WordPress.
 
 I've always been interested in programming, so I decided to study front-end developer. I am sure that this will help me in the development of my projects. And also in the search for a job that attracts me more than the current one.
+
 ---
+
 ## Skills
+
 - HTML5, CSS3;
 - JavaScript (basics);
 - Git/GitHub;
@@ -21,6 +28,7 @@ I've always been interested in programming, so I decided to study front-end deve
 - Photoshop;
 - WordPress.
 ---
+
 ## Code example
 
 ```
@@ -41,11 +49,13 @@ for (let key in obj) {
 console.log(arr);
 ```
 ---
-## Work experience
----
+
 ## Education
+
 [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/)
+
 ---
+
 ## Languages:
 - **Russian:** native;
 - **English:** A1 Elementary.

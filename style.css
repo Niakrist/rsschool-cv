@@ -5,3 +5,9 @@
 body {
   background-color: rgb(255, 255, 209);
 }
+
+p {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(100, 100, 200);
+}
